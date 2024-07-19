@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-19T11:14:42 IST" name="Default suite" finished-at="2024-07-19T11:17:23 IST" duration-ms="160837">
+    <groups>
+    </groups>
+    <test started-at="2024-07-19T11:14:42 IST" name="Default test" finished-at="2024-07-19T11:17:23 IST" duration-ms="160837">
+      <class name="Test.GoDaddyHomePageTest">
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:Test.GoDaddyHomePageTest@73a1e9a9]" started-at="2024-07-19T11:14:43 IST" name="openApplication" finished-at="2024-07-19T11:16:40 IST" duration-ms="117110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="verifyIfUserIsAbleToAccessMenu4()[pri:0, instance:Test.GoDaddyHomePageTest@73a1e9a9]" started-at="2024-07-19T11:16:40 IST" name="verifyIfUserIsAbleToAccessMenu4" finished-at="2024-07-19T11:17:23 IST" duration-ms="43026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfUserIsAbleToAccessMenu4 -->
+      </class> <!-- Test.GoDaddyHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
